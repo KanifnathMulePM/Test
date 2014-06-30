@@ -1,0 +1,16 @@
+1. Current Build version
+   - 1.0.6  
+
+
+2. List of features planned in the current milestone
+   - School calendar for teacher
+
+3. New features added if any in the current release
+   - Sync timetable of child with google calendar for parent
+   - School calendar feature for parent of iPhone and iPad
+   - Sync school calendar with local calendar     
+
+4. List of issues Resolved
+
+5. Known issues
+  
